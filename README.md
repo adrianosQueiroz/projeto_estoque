@@ -34,7 +34,8 @@ O script gera um gráfico que permite identificar:
 * Nível crítico para disparo de novas ordens de compra.
 * Estatísticas descritivas do giro de estoque.
 
-![Gráfico de Previsão de Demanda](analise_estoque.png)
+![Gráfico de Previsão de Demanda](projeto_estoque/analise_estoque.png)
 ---
 *Projeto desenvolvido por **Adriano Soares**, unindo experiência em logística e análise de dados.*
+
 
