@@ -3,11 +3,11 @@
 Este projeto aplica conceitos de **Estatística e Ciência de Dados** para resolver um problema real da logística: o equilíbrio entre o custo de estoque e o nível de serviço (SLA).
 
 ## 🚀 Objetivo
-Automatizar o cálculo do **Ponto de Pedido (Reorder Point)** e do **Estoque de Segurança** baseando-se na variabilidade real da demanda e no tempo de resposta do fornecedor.
+Automatizar o cálculo do **Ponto de Pedido** e do **Estoque de Segurança** baseando-se na variabilidade real da demanda e no tempo de resposta do fornecedor.
 
 ## 🧠 Conceitos Aplicados
 
-### 1. Estoque de Segurança ($ES$)
+### 1. Estoque de Segurança
 Utilizamos a fórmula estatística que considera a incerteza do período de cobertura:
 $$ES = Z \times \sigma \times \sqrt{LT}$$
 
@@ -36,3 +36,4 @@ O script gera um gráfico que permite identificar:
 
 ---
 *Projeto desenvolvido por **Adriano Soares**, unindo experiência em logística e análise de dados.*
+
